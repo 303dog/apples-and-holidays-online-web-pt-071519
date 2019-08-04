@@ -24,7 +24,7 @@ end
   #     :memorial_day => ["BBQ"]
   #   }
   # }
-  # return the second element in the 4th of July array
+ 
 
 def add_supply_to_winter_holidays(holiday_hash, supply)
    holiday_hash.each do |season, holiday|
